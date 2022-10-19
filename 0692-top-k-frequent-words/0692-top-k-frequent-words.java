@@ -10,8 +10,8 @@ class Solution {
     }
     
     public List<String> topKFrequent(String[] words, int k) {
-        Map<String, Integer> map = new HashMap<>();
-        Set<String> set = new HashSet<>();
+        HashMap<String, Integer> map = new HashMap<>();
+        HashSet<String> set = new HashSet<>();
         for (String word: words) {
             map.put(word, map.getOrDefault(word, 0) + 1);
             set.add(word);
