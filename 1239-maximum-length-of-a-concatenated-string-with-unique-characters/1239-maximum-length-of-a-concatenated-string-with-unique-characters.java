@@ -1,32 +1,25 @@
 class Solution {
     public int maxLength(List<String> arr) {
-        Set<Integer> set = new HashSet<>();
-        set.add(0);
-        int max = 0;
-        for (String word: arr)
-            max = Math.max(max, masks(word, set));
-        return max;
+        return backtrack(arr, 0, new HashMap<Character, Integer>());
     }
     
-    public int masks(String arr, Set<Integer> set) {
-        int bitSet = 0;
-        int len = 0;
-        for (char c: arr.toCharArray()) {
-            int mask = 1 << c - 'a';
-            if ((bitSet & mask) > 0) return 0;
-            bitSet += mask;
+    public int backtrack(List<String> arr, int idx, Map<Character, Integer> res) {
+        for (Integer val: res.values()) {
+            if (val > 1) return 0;
         }
-        if (set.contains(bitSet))
-            return 0;
-        Set <Integer> newSet = new HashSet<>();
-        for (Integer st: set) {
-            if ((st & bitSet) > 0) continue;
-            int newLen = (st >> 26) + arr.length();
-            int newBitSet = (bitSet + st) & ((1 << 26) - 1);
-            newSet.add((newLen << 26) + newBitSet);
-            len = Math.max(len, newLen);
+        int maxLen = res.size();
+        for (int i = idx; i < arr.size(); i++) {
+            char[] word = arr.get(i).toCharArray();
+            for (char c : word)
+                res.put(c, res.getOrDefault(c, 0) + 1);
+            maxLen = Math.max(maxLen, backtrack(arr, i + 1, res));
+            for (char c: word) {
+                if (res.get(c) == 1)
+                    res.remove(c);
+                else
+                    res.put(c, res.get(c) - 1);
+            }
         }
-        set.addAll(newSet);
-        return len;
+        return maxLen;
     }
 }
