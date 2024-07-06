@@ -1,16 +1,23 @@
 class Solution {
     fun licenseKeyFormatting(s: String, k: Int): String {
-        var result = ""
-        var counter = 0
-        for (i in s.lastIndex downTo 0) {
-            if ((counter + 1) % k == 0 && i != 0 && s[i] != '-') {
-                result += s[i].uppercase() + "-"
-                counter = 0
-            } else if (s[i] != '-'){
-                result += s[i].uppercase()
-                counter++
+        val cleaned = s.filter { it != '-' }.uppercase()
+        val result = StringBuilder()
+        val first = cleaned.length % k
+        var i = 0
+        if (first > 0) {
+            result.append(cleaned.substring(0, first))
+            i = first
+            if (i < cleaned.length) {
+                result.append('-')
             }
         }
-        return result.trim('-').reversed()
+        while (i < cleaned.length) {
+            result.append(cleaned.substring(i, i + k))
+            i += k
+            if (i < cleaned.length) {
+                result.append('-')
+            }
+        }
+        return result.toString()
     }
 }
