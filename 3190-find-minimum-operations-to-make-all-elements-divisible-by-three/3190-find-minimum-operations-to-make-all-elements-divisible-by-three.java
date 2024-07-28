@@ -1,17 +1,12 @@
 class Solution {
     public int minimumOperations(int[] nums) {
         int count = 0;
-        for (int num : nums) {
-            count += Math.abs(num - findClosestDivisibleByThree(num));
+        for (int num: nums) {
+            int reminder = num % 3;
+            if (reminder != 0)
+                count += Math.min(reminder, 3 - reminder);
         }
         return count;
     }
-public static int findClosestDivisibleByThree(int num) {
-        if (num % 3 == 0) return num;
-        int lower = num - (num % 3);
-        int higher = lower + 3;
-        if (num - lower < higher - num)
-            return lower;
-        else return higher;
-    }
+
 }
