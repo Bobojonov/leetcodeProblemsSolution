@@ -15,5 +15,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0205-isomorphic-strings) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
