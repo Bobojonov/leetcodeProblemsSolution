@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 ## Simulation
