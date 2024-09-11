@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
 | [0205-isomorphic-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0290-word-pattern) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 ## Trie
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0169-majority-element) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 ## Stack
