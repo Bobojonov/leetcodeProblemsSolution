@@ -1,16 +1,10 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        String res = "";
-        int comp = -1;
-        for (int i = 0; i < num.length() - 2; i++) {
-            if (num.charAt(i) == num.charAt(i + 1) && num.charAt(i + 1) == num.charAt(i + 2)) {
-                String curr = num.substring(i, i + 3);
-                if (comp < Integer.parseInt(curr)) {
-                    comp = Integer.parseInt(curr);
-                    res = curr;
-                }
-            }
+        String[] patterns = new String[]{"999", "888", "777", "666", "555", "444", "333", "222", "111", "000"};
+        for (String s : patterns) {
+            if (num.indexOf(s) != -1)
+                return num.substring(num.indexOf(s), num.indexOf(s) + 3);
         }
-        return res;
+        return "";
     }
 }
