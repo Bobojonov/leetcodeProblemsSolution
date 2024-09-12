@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
