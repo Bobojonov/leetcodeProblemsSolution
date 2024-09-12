@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
+| [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
+| [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
