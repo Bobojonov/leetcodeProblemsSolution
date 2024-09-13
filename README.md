@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1547-destination-city) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1547-destination-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
