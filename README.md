@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
+| [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0387-first-unique-character-in-a-string) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 ## Math
 |  |
@@ -190,9 +194,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
