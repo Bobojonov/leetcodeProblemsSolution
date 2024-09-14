@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0665-non-decreasing-array) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
