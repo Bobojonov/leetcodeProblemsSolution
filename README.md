@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
+| [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
