@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 ## Trie
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2195-time-needed-to-buy-tickets) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
