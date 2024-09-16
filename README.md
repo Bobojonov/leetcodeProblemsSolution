@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0665-non-decreasing-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
+| [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
