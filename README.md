@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2195-time-needed-to-buy-tickets) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
