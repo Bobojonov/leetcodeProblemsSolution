@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1547-destination-city](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1547-destination-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String Matching
 |  |
