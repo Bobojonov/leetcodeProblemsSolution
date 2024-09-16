@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
+| [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2195-time-needed-to-buy-tickets) |
 ## Bit Manipulation
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
