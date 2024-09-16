@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
