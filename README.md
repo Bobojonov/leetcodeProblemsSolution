@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0162-find-peak-element) |
