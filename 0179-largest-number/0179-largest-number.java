@@ -1,5 +1,5 @@
 class Solution {
-    private class ComparatorLargestNumber implements Comparator<String> {
+   private static class CustomComparator implements Comparator<String> {
 
         @Override
         public int compare(String o1, String o2) {
@@ -9,15 +9,14 @@ class Solution {
         }
     }
     public String largestNumber(int[] nums) {
-         int n = nums.length;
-        String[] chars = new String[n];
-        for (int i = 0; i < n; i++)
-            chars[i] = String.valueOf(nums[i]);
-        Arrays.sort(chars, new ComparatorLargestNumber());
-        if (chars[0].equals("0")) return "0";
-        StringBuilder res = new StringBuilder();
-        for (String ch: chars)
-            res.append(ch);
-        return res.toString();
+        int n = nums.length;
+        String[] str = new String[n];
+        for (int i = 0; i < nums.length; i++) str[i] = String.valueOf(nums[i]);
+        Arrays.sort(str, new CustomComparator());
+        if (str[0].equals("0")) return "0";
+        StringBuilder sb = new StringBuilder();
+        for (String s: str)
+            sb.append(s);
+        return sb.toString();
     }
 }
