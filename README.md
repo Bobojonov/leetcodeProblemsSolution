@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0983-validate-stack-sequences) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
