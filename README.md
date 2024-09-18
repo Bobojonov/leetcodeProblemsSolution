@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0189-rotate-array) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0456-132-pattern) |
