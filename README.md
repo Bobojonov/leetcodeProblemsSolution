@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1321-get-equal-substrings-within-budget) |
@@ -384,4 +385,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0456-132-pattern) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
