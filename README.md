@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2027-maximum-number-of-removable-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2027-maximum-number-of-removable-characters) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1894-merge-strings-alternately) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2027-maximum-number-of-removable-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-get-equal-substrings-within-budget](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1321-get-equal-substrings-within-budget) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2027-maximum-number-of-removable-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2027-maximum-number-of-removable-characters) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
