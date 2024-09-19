@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Divide and Conquer
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1762-furthest-building-you-can-reach](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1762-furthest-building-you-can-reach) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -398,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [1762-furthest-building-you-can-reach](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1762-furthest-building-you-can-reach) |
+| [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 ## Bucket Sort
 |  |
 | ------- |
