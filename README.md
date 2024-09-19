@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1547-destination-city) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1547-destination-city](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1547-destination-city) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -347,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
