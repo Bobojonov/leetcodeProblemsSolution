@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0387-first-unique-character-in-a-string) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 ## Monotonic Queue
 |  |
@@ -426,4 +430,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
