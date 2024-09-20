@@ -1,25 +1,22 @@
 class Solution {
-    int n;
-    List<List<Integer>> result;
     public List<List<Integer>> permuteUnique(int[] nums) {
-        this.n = nums.length;
-        result = new ArrayList<>();
-        List<Integer> combination = new ArrayList<>();
-        for (int num: nums) combination.add(num);
-        backtrack(0, combination);
-        return result;
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> comb = new ArrayList<>();
+        for (int num: nums) comb.add(num);
+        backtrack(0, nums, comb, res);
+        return res;
     }
     
-    public void backtrack(int i, List<Integer> comb) {
-        if (i == n) {
-            if (result.contains(comb))
-                return;
-            else result.add(new ArrayList<>(comb));
+    public void backtrack(int start, int[] nums, List<Integer> comb, List<List<Integer>> res) {
+        if (start == nums.length) {
+            if (res.contains(comb)) return;
+            res.add(new ArrayList<>(comb));
+            return;
         }
-        for (int j = i; j < n; j++) {
-            Collections.swap(comb, j, i);
-            backtrack(i + 1, comb);
-            Collections.swap(comb, j, i);
+        for (int i = start; i < nums.length; i++) {
+            Collections.swap(comb, i, start);
+            backtrack(start + 1, nums, comb, res);
+            Collections.swap(comb, i, start);
         }
     }
 }
