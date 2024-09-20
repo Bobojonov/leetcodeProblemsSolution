@@ -1,20 +1,19 @@
 class Solution {
-        List<List<Integer>> result = new LinkedList();
-        int n, k;
     public List<List<Integer>> combine(int n, int k) {
-        this.n = n;
-        this.k = k;
-        backtrack(1, new LinkedList<Integer>());
-        return result;
+        List<List<Integer>> res = new ArrayList<>();
+        backtrack(1, n, k, new ArrayList<>(), res);
+        return res;
     }
     
-    public void backtrack(int start, LinkedList<Integer> combination) {
-        if (combination.size() == k)
-            result.add(new LinkedList<>(combination));
+    public static void backtrack(int start, int n, int k, List<Integer> curr, List<List<Integer>> res) {
+        if (k == 0) {
+            res.add(new ArrayList<>(curr));
+            return;
+        }
         for (int i = start; i <= n; i++) {
-            combination.add(i);
-            backtrack(i + 1, combination);
-            combination.removeLast();
+            curr.add(i);
+            backtrack(i + 1, n, k - 1, curr, res);
+            curr.remove(curr.size() - 1);
         }
     }
 }
