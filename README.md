@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
+| [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
@@ -357,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -405,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1762-furthest-building-you-can-reach) |
 | [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 ## Bucket Sort
