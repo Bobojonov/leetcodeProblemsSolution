@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1762-furthest-building-you-can-reach](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1762-furthest-building-you-can-reach) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2027-maximum-number-of-removable-characters) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -188,11 +189,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 ## Two Pointers
 |  |
@@ -343,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Queue
@@ -450,4 +454,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
