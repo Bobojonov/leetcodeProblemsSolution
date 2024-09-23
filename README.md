@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2756-buy-two-chocolates](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2756-buy-two-chocolates) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
+| [2756-buy-two-chocolates](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Divide and Conquer
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2756-buy-two-chocolates](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2756-buy-two-chocolates) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
