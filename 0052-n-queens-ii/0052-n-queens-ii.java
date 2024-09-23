@@ -1,32 +1,25 @@
 class Solution {
     public int totalNQueens(int n) {
-        Set<Integer> col = new HashSet<>();
-        Set<Integer> posDig = new HashSet<>();
-        Set<Integer> negDig = new HashSet<>();
-        List<Integer> ans = new ArrayList<>();
-        char[][] board = new char[n][n];
-        for (char[] row: board)
-            Arrays.fill(row, '.');
-        dfs(0, n, board, col, posDig, negDig, ans);
-        return ans.size();
+        return dfs(0, n, new boolean[n], new boolean[n * 2], new boolean[n * 2]);
     }
-    
-    public void dfs(int r, int n, char[][] board, Set<Integer> col, Set<Integer> posDig, Set<Integer> negDig, List<Integer> ans) {
+
+    public int dfs(int r, int n, boolean[] col, boolean[] posDig, boolean[] negDig) {
         if (r == n) {
-            ans.add(1);
-            return;
+            return 1;
         }
+        int count = 0;
         for (int c = 0; c < n; c++) {
-            if (col.contains(c) || posDig.contains(r + c) || negDig.contains(r - c)) continue;
-            col.add(c);
-            posDig.add(r + c);
-            negDig.add(r - c);
-            board[r][c] = 'Q';
-            dfs(r + 1, n, board, col, posDig, negDig, ans);
-            col.remove(c);
-            posDig.remove(r + c);
-            negDig.remove(r - c);
-            board[r][c] = '.';
+            int pos = r + c;
+            int neg = r - c + (n - 1);
+            if (col[c] || posDig[pos] || negDig[neg]) continue;
+            col[c] = true;
+            posDig[pos] = true;
+            negDig[neg] = true;
+            count += dfs(r + 1, n, col, posDig, negDig);
+            col[c] = false;
+            posDig[pos] = false;
+            negDig[neg] = false;
         }
+        return count;
     }
 }
