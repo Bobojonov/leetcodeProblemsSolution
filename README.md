@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0983-validate-stack-sequences) |
 | [1184-car-pooling](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1184-car-pooling) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1806-count-of-matches-in-tournament](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1806-count-of-matches-in-tournament) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2195-time-needed-to-buy-tickets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2470-removing-stars-from-a-string) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2032-largest-odd-number-in-string) |
