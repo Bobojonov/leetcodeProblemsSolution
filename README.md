@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2756-buy-two-chocolates) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1677-matrix-diagonal-sum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1677-matrix-diagonal-sum) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
