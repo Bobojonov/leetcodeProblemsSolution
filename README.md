@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
