@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
+| [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
 | [0665-non-decreasing-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0713-subarray-product-less-than-k) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1677-matrix-diagonal-sum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1677-matrix-diagonal-sum) |
