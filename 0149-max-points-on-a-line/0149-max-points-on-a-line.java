@@ -1,38 +1,24 @@
 class Solution {
     public int maxPoints(int[][] points) {
-        if (points == null) return 0;
-        if (points.length <= 2) return points.length;
-        int res = 1;
-        for (int i = 0; i < points.length; i++) {
+        int n = points.length;
+        if (n <= 2) return n;
+        int res = 0;
+        for (int i = 0; i < n - res; i++) {
             int[] point1 = points[i];
-            int duplicates = 0;
+            Map<Double, Integer> map = new HashMap<>(n - i, 1.0f);
             int max = 0;
-            Map<String, Integer> map = new HashMap<>();
-            for (int j = i + 1; j < points.length; j++) {
+            for (int j = i + 1; j < n; j++) {
+                double slope = -1;
                 int[] point2 = points[j];
-                int dx = point2[0] - point1[0];
-                int dy = point2[1] - point1[1];
-                if (dx == 0 && dy == 0) {
-                    duplicates++;
-                    continue;
-                }
-                int gcd = gcd(dx, dy);
-                dx /= gcd;
-                dy /= gcd;
-                if (dx < 0) {
-                    dx = -dx;
-                    dy = -dy;
-                }
-                String slope = dx + "/" + dy;
-                map.put(slope, map.getOrDefault(slope, 0) + 1);
-                max = Math.max(max, map.get(slope));
+                if (point1[0] == point2[0]) slope = Double.NaN;
+                else if (point1[1] == point2[1]) slope = 0;
+                else slope = (double) (point2[1] - point1[1]) / (point2[0] - point1[0]);
+                int curr = map.getOrDefault(slope, 1) + 1;
+                max = Math.max(max, curr);
+                map.put(slope, curr);
             }
-            res = Math.max(res, max + duplicates + 1);
+            res =  Math.max(res, max);
         }
         return res;
-    }
-
-    public static int gcd(int a, int b) {
-        return b == 0 ? a : gcd(b, a % b);
     }
 }
