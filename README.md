@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
+| [0149-max-points-on-a-line](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0205-isomorphic-strings) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0149-max-points-on-a-line](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0179-largest-number) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
@@ -518,4 +521,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0473-matchsticks-to-square) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
