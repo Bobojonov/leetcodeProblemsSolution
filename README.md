@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0386-lexicographical-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -533,4 +534,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0149-max-points-on-a-line) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
