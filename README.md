@@ -57,12 +57,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 | [2470-removing-stars-from-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2487-optimal-partition-of-string) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0386-lexicographical-numbers) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2636-maximum-subsequence-score](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2636-maximum-subsequence-score) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2756-buy-two-chocolates) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
