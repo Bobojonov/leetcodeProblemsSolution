@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1184-car-pooling](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1184-car-pooling) |
+| [1185-find-in-mountain-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1185-find-in-mountain-array) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1386-shift-2d-grid](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1185-find-in-mountain-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1321-get-equal-substrings-within-budget) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1185-find-in-mountain-array) |
 ## Memoization
 |  |
 | ------- |
