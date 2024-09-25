@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2390-naming-a-company](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2390-naming-a-company) |
 | [2470-removing-stars-from-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2487-optimal-partition-of-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
 | ------- |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Design
 |  |
