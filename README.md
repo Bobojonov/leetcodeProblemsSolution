@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0575-distribute-candies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
