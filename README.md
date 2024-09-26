@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0557-reverse-words-in-a-string-iii) |
