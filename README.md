@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
 | [0566-reshape-the-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0598-range-addition-ii) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0507-perfect-number) |
+| [0598-range-addition-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0598-range-addition-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
