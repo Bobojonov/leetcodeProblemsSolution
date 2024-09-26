@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0554-brick-wall) |
+| [0566-reshape-the-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
+| [0566-reshape-the-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0059-spiral-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
