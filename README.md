@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0507-perfect-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
