@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0093-restore-ip-addresses) |
 | [0168-excel-sheet-column-title](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0168-excel-sheet-column-title) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0682-baseball-game) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0043-multiply-strings) |
 | [0149-max-points-on-a-line](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0189-rotate-array) |
