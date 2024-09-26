@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0093-restore-ip-addresses) |
+| [0401-binary-watch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0473-matchsticks-to-square) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
