@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0047-permutations-ii) |
+| [0059-spiral-matrix-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0735-asteroid-collision) |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0059-spiral-matrix-ii) |
 | [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
