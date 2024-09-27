@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0598-range-addition-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
