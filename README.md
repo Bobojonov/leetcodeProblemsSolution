@@ -439,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0507-perfect-number) |
 | [0598-range-addition-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
