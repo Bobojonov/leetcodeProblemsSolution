@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0749-shortest-completing-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0749-shortest-completing-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
@@ -422,16 +424,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0214-shortest-palindrome) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Math
 |  |
