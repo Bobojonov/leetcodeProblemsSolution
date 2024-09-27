@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
 | [0824-number-of-lines-to-write-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
