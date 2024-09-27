@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-number-of-lines-to-write-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0851-goat-latin) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
