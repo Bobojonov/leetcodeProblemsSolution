@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0068-text-justification) |
@@ -483,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0410-split-array-largest-sum) |
@@ -493,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0409-longest-palindrome) |
