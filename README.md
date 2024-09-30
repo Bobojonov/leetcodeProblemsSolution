@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0919-projection-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [0866-rectangle-overlap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0866-rectangle-overlap) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0919-projection-area-of-3d-shapes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0919-projection-area-of-3d-shapes) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1386-shift-2d-grid](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1386-shift-2d-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1677-matrix-diagonal-sum) |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0149-max-points-on-a-line) |
 | [0866-rectangle-overlap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0866-rectangle-overlap) |
+| [0919-projection-area-of-3d-shapes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0919-projection-area-of-3d-shapes) |
 ## Depth-First Search
 |  |
 | ------- |
