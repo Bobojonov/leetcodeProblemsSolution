@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0983-validate-stack-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1297-maximum-number-of-balloons) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0866-rectangle-overlap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0919-projection-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1635-number-of-good-pairs) |
@@ -531,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Sliding Window
 |  |
