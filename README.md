@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
