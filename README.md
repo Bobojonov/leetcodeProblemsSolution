@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-number-of-lines-to-write-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1304-longest-happy-string) |
