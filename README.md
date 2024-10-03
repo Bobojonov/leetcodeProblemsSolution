@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0392-is-subsequence](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0473-matchsticks-to-square) |
 | [0868-push-dominoes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0868-push-dominoes) |
