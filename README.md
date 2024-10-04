@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
 | [0919-projection-area-of-3d-shapes](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0919-projection-area-of-3d-shapes) |
+| [0924-fair-candy-swap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0924-fair-candy-swap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1185-find-in-mountain-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1321-get-equal-substrings-within-budget) |
@@ -376,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0917-boats-to-save-people) |
+| [0924-fair-candy-swap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
 | [1184-car-pooling](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1184-car-pooling) |
