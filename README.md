@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0817-design-hashmap) |
+| [0969-number-of-recent-calls](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/2195-time-needed-to-buy-tickets) |
 ## Dynamic Programming
@@ -679,4 +681,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0731-my-calendar-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
