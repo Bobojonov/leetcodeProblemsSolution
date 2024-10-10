@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0983-validate-stack-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0985-bag-of-tokens) |
+| [1002-maximum-width-ramp](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0983-validate-stack-sequences) |
+| [1002-maximum-width-ramp](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1002-maximum-width-ramp) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1666-make-the-string-great) |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/Bobojonov/leetcodeProblemsSolution/tree/master/1002-maximum-width-ramp) |
 ## Prefix Sum
 |  |
 | ------- |
